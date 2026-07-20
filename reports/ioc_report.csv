@@ -1,0 +1,4 @@
+Name,Type,Value,Country,City,Organization
+Malicious IP,IPv4,185.220.101.1,DE,Berlin,AS60729 Stiftung Erneuerbare Freiheit
+Phishing Domain,Domain,evil-example.com,,,
+Malware URL,URL,http://malicious-example.com/payload.exe,,,

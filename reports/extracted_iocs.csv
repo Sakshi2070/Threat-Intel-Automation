@@ -1,0 +1,4 @@
+Indicator Name,IOC Type,IOC Value
+Malicious IP,IPv4,185.220.101.1
+Phishing Domain,Domain,evil-example.com
+Malware URL,URL,http://malicious-example.com/payload.exe

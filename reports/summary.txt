@@ -1,0 +1,18 @@
+Threat Intelligence Automation Summary
+=============================================
+
+Attack Patterns : 858
+Malware Families: 729
+Total IOCs      : 3
+
+IOC Breakdown
+--------------------
+IPv4: 1
+Domain: 1
+URL: 1
+
+Reports Generated
+--------------------
+attack_patterns.csv
+malware.csv
+ioc_report.csv
